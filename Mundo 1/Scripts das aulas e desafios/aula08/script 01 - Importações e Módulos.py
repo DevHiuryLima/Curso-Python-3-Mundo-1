@@ -1,8 +1,8 @@
 # Quando quiser importar um módulo no meu script, posso fazer dessas maneiras:
 
-# import <NOME DO MÓDULO> | Importa tudo contido no módulo
-# from <NOME DO MÓDULO> import <NOME DA FUNÇÃO> | Importa uma função específica do módulo
-# from <NOME DO MÓDULO> import <NOME DA FUNÇÃO 1>, <NOME DA FUNÇÃO 2> | Importa duas ou mais funções específicas do módulo
+# import <NOME DO MÓDULO> | Importa tudo contido no módulo.
+# from <NOME DO MÓDULO> import <NOME DA FUNÇÃO> | Importa uma função específica do módulo.
+# from <NOME DO MÓDULO> import <NOME DA FUNÇÃO 1>, <NOME DA FUNÇÃO 2> | Importa duas ou mais funções específicas do módulo.
 
 # Exemplo com um módulo existente:
 # import math
